@@ -1,0 +1,47 @@
+.App {
+  text-align: center;  
+  display:block;  
+}
+
+.List1{
+  text-align: center; 
+}
+.List2{
+  text-align: left; 
+  margin:0px 450px 0px 450px;
+
+}
+
+.table{
+  margin:-20px 0px 0px -10px;
+  display:table;
+  padding: 10px;
+  
+}
+.Perform{
+  text-align: center;   
+}
+
+.Cell{
+  display:table-cell; 
+  width:300px;
+  text-align: center;
+  border-bottom: 1px solid silver;
+  padding: 5px 0px 5px 0px;
+  
+}
+.Header{
+  display:table-row;
+  font-weight: bold;
+  background-color: lightgray; 
+  
+}
+.row{
+  display:table-row;
+}
+.Button2{
+  padding:5px;
+}
+.Button1{
+  padding :10px;
+}
