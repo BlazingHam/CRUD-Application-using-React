@@ -1,4 +1,4 @@
-Simple CRUD Application using React
+Simple CRUD Application using React. This is also practice for using React-Router and Redux.
 
 ## How To Run
 
